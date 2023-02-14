@@ -1,0 +1,16 @@
+C:\homework9\task54\bin\Debug\net6.0\task54.exe
+C:\homework9\task54\bin\Debug\net6.0\task54.deps.json
+C:\homework9\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\homework9\task54\bin\Debug\net6.0\task54.dll
+C:\homework9\task54\bin\Debug\net6.0\ref\task54.dll
+C:\homework9\task54\bin\Debug\net6.0\task54.pdb
+C:\homework9\task54\obj\Debug\net6.0\task54.GlobalUsings.g.cs
+C:\homework9\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\homework9\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework9\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\homework9\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\homework9\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\homework9\task54\obj\Debug\net6.0\task54.dll
+C:\homework9\task54\obj\Debug\net6.0\ref\task54.dll
+C:\homework9\task54\obj\Debug\net6.0\task54.pdb
+C:\homework9\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
